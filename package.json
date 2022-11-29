@@ -58,7 +58,7 @@
     "formdata-node": "^3.5.4",
     "mocha": "^8.3.2",
     "p-timeout": "^5.0.0",
-    "tsd": "^0.14.0",
+    "tsd": "^0.25.0",
     "xo": "^0.39.1"
   },
   "dependencies": {
